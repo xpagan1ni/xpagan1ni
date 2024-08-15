@@ -21,4 +21,4 @@ My language skills are as follows: English (B1), French (A2), Turkish (native).
 ## Badges
 ![pagan1ni](https://github.com/user-attachments/assets/1ef05f6a-6336-4829-b08b-0c770be43885)
 
-<img weight=200 height=200 src="introduction-to-cybersecurity.png">
+<img weight=180 height=180 src="introduction-to-cybersecurity.png">
