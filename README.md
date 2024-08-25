@@ -22,3 +22,4 @@ My language skills are as follows: English (B1), French (A2), Turkish (native).
 ![pagan1ni](https://github.com/user-attachments/assets/1ef05f6a-6336-4829-b08b-0c770be43885)
 
 <img weight=204 height=204 src="introduction-to-cybersecurity.png"> <img weight=204 height=204 src="operating-systems-basics.png">
+<img weight=204 height=204 src="ibm-operating-systems.png"> <img weight=204 height=204 src="operating-systems-basics.png">
