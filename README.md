@@ -12,7 +12,7 @@ My language skills are as follows: English (B1), French (A2), Turkish (native).
 
 
 ## Social Media
-* Twitter: https://x.com/pagan1ni
+* Twitter: X
 * Youtube: https://www.youtube.com/@AcidaliaLabs
 * Linkedin: https://www.linkedin.com/in/hakan-%C3%B6ren-19aa79191/
 * TryHackMe: https://tryhackme.com/p/pagan1ni
